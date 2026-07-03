@@ -1,6 +1,22 @@
-# 💫 About Me:
-👋 Hi, I'm Joyel James<br><br>An aspiring AI/ML Developer passionate about building real-world AI applications that solve meaningful problems. I enjoy transforming ideas into intelligent systems using Machine Learning, NLP, LLMs, and modern AI technologies.<br><br>Currently focused on developing end-to-end AI solutions, including RAG-based chatbots, document intelligence systems, and production-ready AI applications. I believe the best way to learn is by building, experimenting, and continuously improving every day.<br><br>🚀 Building AI one project at a time<br>🧠 Exploring Machine Learning, NLP, LLMs & RAG<br>⚡ Creating production-style applications with FastAPI and modern AI tools<br>📚 Lifelong learner passionate about technology and innovation<br><br>"Learn. Build. Improve. Repeat."<br>
+# 👋 Hi, I'm Joyel J
 
+**AI/ML Developer** | CSE Graduate 2025 | Nagercoil, Tamil Nadu
+
+I build production-ready AI applications that solve real-world problems.
+Currently developing an AI Medical Report Analyzer using RAG, LangChain,
+Llama 3, FastAPI, and AWS — from scratch to deployment.
+
+I don't just follow tutorials. I build, break, debug, and ship.
+
+---
+
+🔭 Currently building → AI Medical Report Analyzer (RAG Pipeline)
+🌱 Learning → LLMOps, AWS, Docker, Production AI Systems
+💡 Interested in → LLMs, NLP, Document Intelligence, AI SaaS
+🎯 Goal → Land an AI/ML Developer role and build impactful products
+
+---
+*"Build real things. Learn the hard way. Ship it."*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neura_insights) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JOYEL J) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Joelmexianz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyeljames333@gmail.com) 
